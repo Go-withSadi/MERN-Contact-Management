@@ -1,16 +1,12 @@
 # Contact Manager
 
-#### Project deployed link -> [Contact Manager](https://contact-manager-mern-cg19.onrender.com/)
-
----
-
-## :pencil: About The Project
+## About The Project
 
 Contact Manager is a web application that allows users to manage their contacts with privacy.
 
 ---
 
-## :cloud: Overview
+## Overview
 
 This project is created as a MERN (MongoDB, Express.js, React, Node.js) App. It allows users to add, edit, delete, and search for contacts, along with viewing individual contact details. The project also includes a Switching between dark and light mode, and the user's theme preference is saved in local storage, so the mode will remain the same as the last time they left. All data is saved on the MongoDB server, and the project has a 0 refresh rate achieved using routers.
 
@@ -24,7 +20,7 @@ This project is created as a MERN (MongoDB, Express.js, React, Node.js) App. It 
 
 ---
 
-## :floppy_disk: Project Files Description
+## Project Files Description
 
 ### Frontend
 
@@ -51,7 +47,7 @@ This project is created as a MERN (MongoDB, Express.js, React, Node.js) App. It 
 
 ---
 
-## 📼 How you can run it Locally
+##  How you can run it Locally
 
 1. Go to the code section above and download it as a zip.
 2. Extract the zip file, then open the extracted folder in vscode.
