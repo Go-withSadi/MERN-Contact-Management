@@ -61,7 +61,7 @@ This project is created as a MERN (MongoDB, Express.js, React, Node.js) App. It 
 
 ![Contact Manager](./client/images/1_1.png)
 ![Contact Manager](./client/images/1_2.png)
-![Contact Manager](./client/images/1_3.png)
 ![Contact Manager](./client/images/1_4.png)
 ![Contact Manager](./client/images/1_5.png)
 ![Contact Manager](./client/images/1_6.png)
+![Contact Manager](./client/images/1_7.png)
